@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48337917208",
+    "firebase_url": "https://palpiteirosfc-489de.firebaseio.com",
+    "project_id": "palpiteirosfc-489de",
+    "storage_bucket": "palpiteirosfc-489de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48337917208:android:aff458ae1c0bf87f763a6d",
+        "android_client_info": {
+          "package_name": "com.palpiteirosfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48337917208-crfjbhpfuvjn7ik7a1mpjf8seftdhimm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxKbPWAhaVFHooAPD0yMOJ7449hG3GrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48337917208-crfjbhpfuvjn7ik7a1mpjf8seftdhimm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
